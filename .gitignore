@@ -1,0 +1,5 @@
+*.png
+*.log
+.idea/
+__pycache__/
+*.pyc
